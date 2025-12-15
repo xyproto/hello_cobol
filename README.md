@@ -6,7 +6,7 @@ Tested on Arch Linux.
 
 ### Sources
 
-`hello.cob`
+hello.cob:
 
 ```cobol
 >>SOURCE FORMAT FREE
